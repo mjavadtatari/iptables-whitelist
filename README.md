@@ -5,10 +5,12 @@ This may help you by
 3.  **zip** `output_list.txt` & `iptables_runable.py` (make sure you've installed **zip** and **unzip**)
 4.  then **upload** it to the Server
 5.  **unzip** it 
-6.  **run** the `iptables_runable.py` 
+6.  **run** the `iptables_runable.py` with `(sudo) python iptables_runable.py`
 7.  **Done**
 
 And, as you know, you're able to change the Terminal Command or the file's name or develope it further
+
+> requirements: (sudo) apt install python zip unzip iptables
 
 Thanks to:\
 [Executing Shell Commands with Python](https://stackabuse.com/executing-shell-commands-with-python/)\
