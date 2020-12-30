@@ -8,4 +8,5 @@ for i in text:
     i.strip()
     os.system(i)
 
+os.system("echo Done")
 input_file.close()
