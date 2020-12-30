@@ -7,6 +7,7 @@ This may help you by
 5.  **unzip** it 
 6.  **run** the `iptables_runable.py` with `(sudo) python iptables_runable.py`
 7.  **Done**
+8.  **Optional**: check iptables list by `(sudo) iptables -L`
 
 And, as you know, you're able to change the Terminal Command or the file's name or develope it further
 
